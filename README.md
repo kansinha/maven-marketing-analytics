@@ -3,7 +3,8 @@ End-to-end marketing analytics project — Python, BigQuery SQL, Looker Studio
 
 **Tools:** Python · Google BigQuery · Looker Studio
 **Dataset:** 2,240 customers | 28 features | Maven Analytics
-**Dashboard:** https://datastudio.google.com/s/tlqm5LHlA-o
+
+ **Dashboard:** https://datastudio.google.com/s/tlqm5LHlA-o
 
 ---
 
